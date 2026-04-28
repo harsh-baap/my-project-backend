@@ -1,0 +1,11 @@
+ultralytics
+opencv-python
+opencv-contrib-python
+torch
+torchvision
+flask
+flask-cors
+numpy
+pillow
+requests
+python-dotenv
